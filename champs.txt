@@ -1,0 +1,1180 @@
+Aatrox:
+	Passive: Deathbringer Stance @ 24 − 12 (based on level)
+	Q: The Darkin Blade @ 14 / 12 / 10 / 8 / 6
+	W: Infernal Chains @ 20 / 18 / 16 / 14 / 12
+	E: Umbral Dash @ 9 / 8 / 7 / 6 / 5
+	R: World Ender @ 120 / 100 / 80
+
+Ahri:
+	Passive: Essence Theft @ None
+	Q: Orb of Deception @ 7
+	W: Fox-Fire @ 9 / 8 / 7 / 6 / 5
+	E: Charm @ 14
+	R: Spirit Rush @ 130 / 105 / 80
+
+Akali:
+	Passive: Assassin's Mark @ None
+	Q: Five Point Strike @ 1.5
+	W: Twilight Shroud @ 20
+	E: Shuriken Flip @ 16 / 14.5 / 13 / 11.5 / 10
+	R: Perfect Execution @ 100 / 80 / 60
+
+Akshan:
+	Passive: Dirty Fighting @ 16 / 12 / 8 / 4 (based on level)
+	Q: Avengerang @ 8 / 7.25 / 6.5 / 5.75 / 5
+	W: Going Rogue @ 18 / 14 / 10 / 6 / 2
+	E: Heroic Swing @ 18 / 16.5 / 15 / 13.5 / 12
+	R: Comeuppance @ 100 / 85 / 70
+
+Alistar:
+	Passive: Triumphant Roar @ 3
+	Q: Pulverize @ 14 / 13 / 12 / 11 / 10
+	W: Headbutt @ 14 / 13 / 12 / 11 / 10
+	E: Trample @ 12 / 11.5 / 11 / 10.5 / 10
+	R: Unbreakable Will @ 120 / 100 / 80
+
+Amumu:
+	Passive: Cursed Touch @ None
+	Q: Bandage Toss @ 3
+	W: Despair @ 1
+	E: Tantrum @ 9 / 8 / 7 / 6 / 5
+	R: Curse of the Sad Mummy @ 150 / 125 / 100
+
+Anivia:
+	Passive: Rebirth @ 240
+	Q: Flash Frost @ 12 / 11 / 10 / 9 / 8
+	W: Crystallize @ 17
+	E: Frostbite @ 4
+	R: Glacial Storm @ 4 / 3 / 2
+
+Annie:
+	Passive: Pyromania @ None
+	Q: Disintegrate @ 4
+	W: Incinerate @ 8
+	E: Molten Shield @ 12 / 11.5 / 11 / 10.5 / 10
+	R: Summon: Tibbers @ 130 / 115 / 100
+
+Aphelios:
+	Passive: The Hitman and the Seer @ None
+	Q: Weapons of the Faithful @ None
+	W: Phase @ 0.8
+	E: Weapon Queue System @ None
+	R: Moonlight Vigil @ 120 / 110 / 100 (based on level)
+	Other: Calibrum, the Sniper Rifle @ 10 − 8 (based on level)
+	Other: Severum, the Scythe Pistol @ 10 − 8 (based on level)
+	Other: Gravitum, the Gravity Cannon @ 12 − 10 (based on level)
+	Other: Infernum, the Flamethrower @ 9 − 6 (based on level)
+	Other: Crescendum, the Chakram @ 9 − 6 (based on level)
+
+Ashe:
+	Passive: Frost Shot @ None
+	Q: Ranger's Focus @ None
+	W: Volley @ 18 / 14.5 / 11 / 7.5 / 4
+	E: Hawkshot @ 5
+	R: Enchanted Crystal Arrow @ 100 / 80 / 60
+
+Aurelion Sol:
+	Passive: Cosmic Creator @ None
+	Q: Breath of Light @ 3
+	W: Astral Flight @ 22 / 20.5 / 19 / 17.5 / 16
+	E: Singularity @ 12
+	R: Falling Star @ 120 / 110 / 100
+
+Azir:
+	Passive: Shurima's Legacy @ 90
+	Q: Conquering Sands @ 12 / 10.5 / 9 / 7.5 / 6
+	W: Arise! @ 1.5
+	E: Shifting Sands @ 22 / 20.5 / 19 / 17.5 / 16
+	R: Emperor's Divide @ 120 / 105 / 90
+
+Bard:
+	Passive: Traveler's Call @ None
+	Q: Cosmic Binding @ 11 / 10 / 9 / 8 / 7
+	W: Caretaker's Shrine @ 14
+	E: Magical Journey @ 22 / 20.5 / 19 / 17.5 / 16
+	R: Tempered Fate @ 110 / 95 / 80
+
+Bel'Veth:
+	Passive: Death in Lavender @ None
+	Q: Void Surge @ 1
+	W: Above and Below @ 12 / 11 / 10 / 9 / 8
+	E: Royal Maelstrom @ 24 / 22.5 / 21 / 19.5 / 18
+	R: Endless Banquet @ 1
+
+Blitzcrank:
+	Passive: Mana Barrier @ 90
+	Q: Rocket Grab @ 20 / 19 / 18 / 17 / 16
+	W: Overdrive @ 15
+	E: Power Fist @ 9 / 8 / 7 / 6 / 5
+	R: Static Field @ 60 / 40 / 20
+
+Brand:
+	Passive: Blaze @ None
+	Q: Sear @ 8 / 7.5 / 7 / 6.5 / 6
+	W: Pillar of Flame @ 10 / 9.5 / 9 / 8.5 / 8
+	E: Conflagration @ 12 / 11 / 10 / 9 / 8
+	R: Pyroclasm @ 105 / 90 / 75
+
+Braum:
+	Passive: Concussive Blows @ None
+	Q: Winter's Bite @ 8 / 7.5 / 7 / 6.5 / 6
+	W: Stand Behind Me @ 12 / 11 / 10 / 9 / 8
+	E: Unbreakable @ 16 / 14 / 12 / 10 / 8
+	R: Glacial Fissure @ 120 / 100 / 80
+
+Caitlyn:
+	Passive: Headshot @ None
+	Q: Piltover Peacemaker @ 10 / 9 / 8 / 7 / 6
+	W: Yordle Snap Trap @ 0.5
+	E: 90 Caliber Net @ 16 / 14 / 12 / 10 / 8
+	R: Ace in the Hole @ 90 / 75 / 60
+
+Camille:
+	Passive: Adaptive Defenses @ 20 / 15 / 10 (based on level)
+	Q: Precision Protocol @ 9 / 8.25 / 7.5 / 6.75 / 6
+	W: Tactical Sweep @ 17 / 15.5 / 14 / 12.5 / 11
+	E: Hookshot @ 16 / 15 / 14 / 13 / 12
+	R: The Hextech Ultimatum @ 140 / 115 / 90
+
+Cassiopeia:
+	Passive: Serpentine Grace @ None
+	Q: Noxious Blast @ 3.5
+	W: Miasma @ 24 / 22 / 20 / 18 / 16
+	E: Twin Fang @ 0.75
+	R: Petrifying Gaze @ 120 / 100 / 80
+
+Cho'Gath:
+	Passive: Carnivore @ None
+	Q: Rupture @ 6
+	W: Feral Scream @ 13 / 12 / 11 / 10 / 9
+	E: Vorpal Spikes @ 8 / 7 / 6 / 5 / 4
+	R: Feast @ 80 / 70 / 60
+
+Corki:
+	Passive: Hextech Munitions @ 300
+	Q: Phosphorus Bomb @ 8
+	W: Valkyrie @ 20 / 19 / 18 / 17 / 16
+	E: Gatling Gun @ 16
+	R: Missile Barrage @ 2
+
+Darius:
+	Passive: Hemorrhage @ None
+	Q: Decimate @ 9 / 8 / 7 / 6 / 5
+	W: Crippling Strike @ 5
+	E: Apprehend @ 24 / 21.5 / 19 / 16.5 / 14
+	R: Noxian Guillotine @ 120 / 100 / 80
+
+Diana:
+	Passive: Moonsilver Blade @ None
+	Q: Crescent Strike @ 8 / 7.5 / 7 / 6.5 / 6
+	W: Pale Cascade @ 15 / 13.5 / 12 / 10.5 / 9
+	E: Lunar Rush @ 22 / 20 / 18 / 16 / 14
+	R: Moonfall @ 100 / 90 / 80
+
+Dr. Mundo:
+	Passive: Goes Where He Pleases @ 60 − 15 (based on level)
+	Q: Infected Bonesaw @ 4
+	W: Heart Zapper @ 17 / 16.5 / 16 / 15.5 / 15
+	E: Blunt Force Trauma @ 9 / 8.25 / 7.5 / 6.75 / 6
+	R: Maximum Dosage @ 120
+
+Draven:
+	Passive: League of Draven @ None
+	Q: Spinning Axe @ 12 / 11 / 10 / 9 / 8
+	W: Blood Rush @ 12
+	E: Stand Aside @ 18 / 17 / 16 / 15 / 14
+	R: Whirling Death @ 100 / 90 / 80
+
+Ekko:
+	Passive: Z-Drive Resonance @ None
+	Q: Timewinder @ 9 / 8.5 / 8 / 7.5 / 7
+	W: Parallel Convergence @ 22 / 20 / 18 / 16 / 14
+	E: Phase Dive @ 9 / 8.5 / 8 / 7.5 / 7
+	R: Chronobreak @ 110 / 80 / 50
+
+Elise:
+	Passive: Spider Queen @ None
+	Q: Neurotoxin @ 6
+	Q: Venomous Bite @ 6
+	W: Volatile Spiderling @ 12
+	W: Skittering Frenzy @ 10
+	E: Cocoon @ 12 / 11.5 / 11 / 10.5 / 10
+	E: Rappel @ 22 / 21 / 20 / 19 / 18
+	R: Spider Form / Human Form @ 4
+
+Evelynn:
+	Passive: Demon Shade @ None
+	Q: Hate Spike @ 4
+	W: Allure @ 15 / 14 / 13 / 12 / 11
+	E: Whiplash @ 8
+	R: Last Caress @ 120 / 100 / 80
+
+Ezreal:
+	Passive: Rising Spell Force @ None
+	Q: Mystic Shot @ 5.5 / 5.25 / 5 / 4.75 / 4.5
+	W: Essence Flux @ 12
+	E: Arcane Shift @ 26 / 23 / 20 / 17 / 14
+	R: Trueshot Barrage @ 120 / 105 / 90
+
+Fiddlesticks:
+	Passive: A Harmless Scarecrow @ None
+	Q: Terrify @ 15 / 14.5 / 14 / 13.5 / 13
+	W: Bountiful Harvest @ 10 / 9.5 / 9 / 8.5 / 8
+	E: Reap @ 10 / 9 / 8 / 7 / 6
+	R: Crowstorm @ 140 / 110 / 80
+
+Fiora:
+	Passive: Duelist's Dance @ None
+	Q: Lunge @ 13 / 11.25 / 9.5 / 7.75 / 6
+	W: Riposte @ 24 / 22 / 20 / 18 / 16
+	E: Bladework @ 11 / 10 / 9 / 8 / 7
+	R: Grand Challenge @ 110 / 90 / 70
+
+Fizz:
+	Passive: Nimble Fighter @ None
+	Q: Urchin Strike @ 8 / 7.5 / 7 / 6.5 / 6
+	W: Seastone Trident @ 7 / 6.5 / 6 / 5.5 / 5
+	E: Playful @ 16 / 14 / 12 / 10 / 8
+	R: Chum the Waters @ 100 / 85 / 70
+
+Galio:
+	Passive: Colossal Smash @ 5
+	Q: Winds of War @ 12 / 11.5 / 11 / 10.5 / 10
+	W: Shield of Durand @ 18 / 17.5 / 17 / 16.5 / 16
+	E: Justice Punch @ 11 / 10 / 9 / 8 / 7
+	R: Hero's Entrance @ 200 / 180 / 160
+
+Gangplank:
+	Passive: Trial by Fire @ 15
+	Q: Parrrley @ 4.5
+	W: Remove Scurvy @ 22 / 20 / 18 / 16 / 14
+	E: Powder Keg @ 0.5
+	R: Cannon Barrage @ 180 / 160 / 140
+
+Garen:
+	Passive: Perseverance @ None
+	Q: Decisive Strike @ 8
+	W: Courage @ 23 / 21 / 19 / 17 / 15
+	E: Judgment @ 9
+	R: Demacian Justice @ 120 / 100 / 80
+
+Gnar:
+	Passive: Rage Gene @ None
+	Passive: Mini Gnar @ None
+	Passive: Mega Gnar @ None
+	Q: Boomerang Throw @ 20 / 17.5 / 15 / 12.5 / 10
+	Q: Boulder Toss @ 20 / 17.5 / 15 / 12.5 / 10
+	W: Hyper @ None
+	W: Wallop @ 7
+	E: Hop @ 22 / 19.5 / 17 / 14.5 / 12
+	E: Crunch @ 22 / 19.5 / 17 / 14.5 / 12
+	R: GNAR! @ 90 / 60 / 30
+
+Gragas:
+	Passive: Happy Hour @ 12
+	Q: Barrel Roll @ 10 / 9 / 8 / 7 / 6
+	W: Drunken Rage @ 5
+	E: Body Slam @ 14 / 13.5 / 13 / 12.5 / 12
+	R: Explosive Cask @ 120 / 100 / 80
+
+Graves:
+	Passive: New Destiny @ None
+	Q: End of the Line @ 13 / 11.5 / 10 / 8.5 / 7
+	W: Smoke Screen @ 26 / 24 / 22 / 20 / 18
+	E: Quickdraw @ 16 / 15 / 14 / 13 / 12
+	R: Collateral Damage @ 100 / 80 / 60
+
+Gwen:
+	Passive: Thousand Cuts @ None
+	Q: Snip Snip! @ 6.5 / 5.75 / 5 / 4.25 / 3.5
+	W: Hallowed Mist @ 22 / 21 / 20 / 19 / 18
+	E: Skip 'n Slash @ 13 / 12.5 / 12 / 11.5 / 11
+	R: Needlework @ 120 / 100 / 80
+
+Hecarim:
+	Passive: Warpath @ None
+	Q: Rampage @ 4
+	W: Spirit of Dread @ 16 / 15.5 / 15 / 14.5 / 14
+	E: Devastating Charge @ 18
+	R: Onslaught of Shadows @ 140 / 120 / 100
+
+Heimerdinger:
+	Passive: Hextech Affinity @ None
+	Q: H-28G Evolution Turret @ 1
+	W: Hextech Micro-Rockets @ 11 / 10 / 9 / 8 / 7
+	E: CH-2 Electron Storm Grenade @ 11
+	R: UPGRADE!!! @ 100 / 85 / 70
+
+Illaoi:
+	Passive: Prophet of an Elder God @ 20 − 7.25 (based on level)
+	Q: Tentacle Smash @ 10 / 9 / 8 / 7 / 6
+	W: Harsh Lesson @ 4
+	E: Test of Spirit @ 16 / 15 / 14 / 13 / 12
+	R: Leap of Faith @ 120 / 95 / 70
+
+Irelia:
+	Passive: Ionian Fervor @ None
+	Q: Bladesurge @ 11 / 10 / 9 / 8 / 7
+	W: Defiant Dance @ 20 / 18 / 16 / 14 / 12
+	E: Flawless Duet @ 16 / 15 / 14 / 13 / 12
+	R: Vanguard's Edge @ 140 / 120 / 100
+
+Ivern:
+	Passive: Friend of the Forest @ None
+	Q: Rootcaller @ 14 / 13 / 12 / 11 / 10
+	W: Brushmaker @ 0.5
+	E: Triggerseed @ 11 / 10 / 9 / 8 / 7
+	R: Daisy! @ 140 / 130 / 120
+
+Janna:
+	Passive: Tailwind @ None
+	Q: Howling Gale @ 12
+	W: Zephyr @ 12
+	E: Eye of the Storm @ 15 / 13.5 / 12 / 10.5 / 9
+	R: Monsoon @ 150 / 135 / 120
+
+Jarvan IV:
+	Passive: Martial Cadence @ None
+	Q: Dragon Strike @ 10 / 9 / 8 / 7 / 6
+	W: Golden Aegis @ 9
+	E: Demacian Standard @ 12 / 11.5 / 11 / 10.5 / 10
+	R: Cataclysm @ 120 / 105 / 90
+
+Jax:
+	Passive: Relentless Assault @ None
+	Q: Leap Strike @ 8 / 7.5 / 7 / 6.5 / 6
+	W: Empower @ 7 / 6 / 5 / 4 / 3
+	E: Counter Strike @ 15 / 13.5 / 12 / 10.5 / 9
+	R: Grandmaster-At-Arms @ 100 / 90 / 80
+
+Jayce:
+	Passive: Hextech Capacitor @ None
+	Passive: Hextech Capacitor @ None
+	Q: To the Skies! @ 16 / 14 / 12 / 10 / 8 / 6
+	Q: Shock Blast @ 8
+	W: Lightning Field @ 10
+	W: Hyper Charge @ 13 / 11.4 / 9.8 / 8.2 / 6.6 / 5
+	E: Thundering Blow @ 20 / 18 / 16 / 14 / 12 / 10
+	E: Acceleration Gate @ 16
+	R: Transform Mercury Cannon @ 6
+	R: Transform Mercury Hammer @ 6
+
+Jhin:
+	Passive: Whisper @ None
+	Q: Dancing Grenade @ 7 / 6.5 / 6 / 5.5 / 5
+	W: Deadly Flourish @ 12
+	E: Captive Audience @ 2
+	R: Curtain Call @ 120 / 105 / 90
+	Other: Basic Attack @ None
+
+Jinx:
+	Passive: Get Excited! @ None
+	Q: Switcheroo! @ 0.9
+	W: Zap! @ 8 / 7 / 6 / 5 / 4
+	E: Flame Chompers! @ 24 / 20.5 / 17 / 13.5 / 10
+	R: Super Mega Death Rocket! @ 75 / 65 / 55
+
+K'Sante:
+	Passive: Dauntless Instinct @ None
+	Q: Ntofo Strikes @ 3.5 − 1.75 (based on bonus resistances)
+	W: Path Maker @ 24 / 22 / 20 / 18 / 16
+	E: Footwork @ 10.5 / 10 / 9.5 / 9 / 8.5
+	R: All Out @ 120 / 100 / 80
+
+Kai'Sa:
+	Passive: Second Skin @ None
+	Q: Icathian Rain @ 10 / 9 / 8 / 7 / 6
+	W: Void Seeker @ 22 / 20 / 18 / 16 / 14
+	E: Supercharge @ 16 / 14.5 / 13 / 11.5 / 10
+	R: Killer Instinct @ 130 / 100 / 70
+
+Kalista:
+	Passive: Martial Poise @ None
+	Q: Pierce @ 8
+	W: Sentinel @ 30
+	E: Rend @ 10 / 9.5 / 9 / 8.5 / 8
+	R: Fate's Call @ 150 / 120 / 90
+	Other: Basic Attack @ None
+
+Karma:
+	Passive: Gathering Fire @ None
+	Q: Inner Flame @ 9 / 8 / 7 / 6 / 5
+	W: Focused Resolve @ 12
+	E: Inspire @ 10 / 9.5 / 9 / 8.5 / 8
+	R: Mantra @ 40 / 38 / 36 / 34
+
+Karthus:
+	Passive: Death Defied @ None
+	Q: Lay Waste @ 1
+	W: Wall of Pain @ 15
+	E: Defile @ 0.5
+	R: Requiem @ 200 / 180 / 160
+
+Kassadin:
+	Passive: Void Stone @ None
+	Q: Null Sphere @ 10 / 9.5 / 9 / 8.5 / 8
+	W: Nether Blade @ 7
+	E: Force Pulse @ 21 / 20 / 19 / 18 / 17
+	R: Riftwalk @ 5 / 3.5 / 2
+
+Katarina:
+	Passive: Voracity @ None
+	Q: Bouncing Blade @ 11 / 10 / 9 / 8 / 7
+	W: Preparation @ 15 / 14 / 13 / 12 / 11
+	E: Shunpo @ 14 / 12.5 / 11 / 9.5 / 8
+	R: Death Lotus @ 90 / 60 / 45
+
+Kayle:
+	Passive: Divine Ascent @ None
+	Q: Radiant Blast @ 12 / 11 / 10 / 9 / 8
+	W: Celestial Blessing @ 15
+	E: Starfire Spellblade @ 8 / 7.5 / 7 / 6.5 / 6
+	R: Divine Judgment @ 160 / 120 / 80
+
+Kayn:
+	Passive: The Darkin Scythe @ None
+	Q: Reaping Slash @ 7 / 6.5 / 6 / 5.5 / 5
+	W: Blade's Reach @ 13 / 12 / 11 / 10 / 9
+	E: Shadow Step @ 21 / 19 / 17 / 15 / 13
+	R: Umbral Trespass @ 120 / 100 / 80
+
+Kennen:
+	Passive: Mark of the Storm @ None
+	Q: Thundering Shuriken @ 7 / 6.25 / 5.5 / 4.75 / 4
+	W: Electrical Surge @ 13 / 11.25 / 9.5 / 7.75 / 6
+	E: Lightning Rush @ 10 / 9 / 8 / 7 / 6
+	R: Slicing Maelstrom @ 120
+
+Kha'Zix:
+	Passive: Unseen Threat @ None
+	Q: Taste Their Fear @ 4
+	W: Void Spike @ 9
+	E: Leap @ 20 / 18 / 16 / 14 / 12
+	R: Void Assault @ 100 / 85 / 70
+
+Kindred:
+	Passive: Mark of the Kindred @ None
+	Q: Dance of Arrows @ 9
+	W: Wolf's Frenzy @ 18 / 17 / 16 / 15 / 14
+	E: Mounting Dread @ 14 / 13 / 12 / 11 / 10
+	R: Lamb's Respite @ 180 / 150 / 120
+
+Kled:
+	Passive: Skaarl, the Cowardly Lizard @ None
+	Passive: Unmounted @ None
+	Q: Bear Trap on a Rope @ 11 / 10 / 9 / 8 / 7
+	Q: Pocket Pistol @ 3
+	W: Violent Tendencies @ 11 / 9.5 / 8 / 6.5 / 5
+	W: Violent Tendencies @ 11 / 9.5 / 8 / 6.5 / 5
+	E: Jousting @ 13 / 12 / 11 / 10 / 9
+	E: Jousting @ None
+	R: Chaaaaaaaarge!!! @ 140 / 125 / 110
+	R: Chaaaaaaaarge!!! @ None
+
+Kog'Maw:
+	Passive: Icathian Surprise @ None
+	Q: Caustic Spittle @ 7
+	W: Bio-Arcane Barrage @ 17
+	E: Void Ooze @ 12
+	R: Living Artillery @ 2 / 1.5 / 1
+
+LeBlanc:
+	Passive: Mirror Image @ 60
+	Q: Sigil of Malice @ 6
+	W: Distortion @ 18 / 16 / 14 / 12 / 10
+	E: Ethereal Chains @ 14 / 13.25 / 12.5 / 11.75 / 11
+	R: Mimic @ 50 / 40 / 30
+
+Lee Sin:
+	Passive: Flurry @ None
+	Q: Sonic Wave @ 10 / 9 / 8 / 7 / 6
+	W: Safeguard @ 12
+	E: Tempest @ 9
+	R: Dragon's Rage @ 110 / 85 / 60
+
+Leona:
+	Passive: Sunlight @ None
+	Q: Shield of Daybreak @ 5
+	W: Eclipse @ 14 / 13 / 12 / 11 / 10
+	E: Zenith Blade @ 12 / 10.5 / 9 / 7.5 / 6
+	R: Solar Flare @ 90 / 75 / 60
+
+Lillia:
+	Passive: Dream-Laden Bough @ None
+	Q: Blooming Blows @ 6 / 5.5 / 5 / 4.5 / 4
+	W: Watch Out! Eep! @ 14 / 13 / 12 / 11 / 10
+	E: Swirlseed @ 14
+	R: Lilting Lullaby @ 150 / 130 / 110
+
+Lissandra:
+	Passive: Iceborn Subjugation @ None
+	Q: Ice Shard @ 8 / 7 / 6 / 5 / 4
+	W: Ring of Frost @ 12 / 11 / 10 / 9 / 8
+	E: Glacial Path @ 24 / 21 / 18 / 15 / 12
+	R: Frozen Tomb @ 120 / 100 / 80
+
+Lucian:
+	Passive: Lightslinger @ None
+	Q: Piercing Light @ 9 / 8 / 7 / 6 / 5
+	W: Ardent Blaze @ 14 / 13 / 12 / 11 / 10
+	E: Relentless Pursuit @ 22 / 20 / 18 / 16 / 14
+	R: The Culling @ 110 / 100 / 90
+
+Lulu:
+	Passive: Pix, Faerie Companion @ None
+	Q: Glitterlance @ 7
+	W: Whimsy @ 17 / 16.5 / 16 / 15.5 / 15
+	E: Help, Pix! @ 8
+	R: Wild Growth @ 120 / 100 / 80
+
+Lux:
+	Passive: Illumination @ None
+	Q: Light Binding @ 11
+	W: Prismatic Barrier @ 14 / 13 / 12 / 11 / 10
+	E: Lucent Singularity @ 10 / 9.5 / 9 / 8.5 / 8
+	R: Final Spark @ 60 / 50 / 40
+
+Malphite:
+	Passive: Granite Shield @ 8 / 7 / 6 (based on level)
+	Q: Seismic Shard @ 8
+	W: Thunderclap @ 10 / 9.5 / 9 / 8.5 / 8
+	E: Ground Slam @ 7
+	R: Unstoppable Force @ 130 / 105 / 80
+
+Malzahar:
+	Passive: Void Shift @ 30 / 24 / 18 / 12 (based on level)
+	Q: Call of the Void @ 6
+	W: Void Swarm @ 8
+	E: Malefic Visions @ 15 / 13 / 11 / 9 / 7
+	R: Nether Grasp @ 140 / 110 / 80
+
+Maokai:
+	Passive: Sap Magic @ 30 / 25 / 20 (based on level)
+	Q: Bramble Smash @ 8 / 7.25 / 6.5 / 5.75 / 5
+	W: Twisted Advance @ 13 / 12 / 11 / 10 / 9
+	E: Sapling Toss @ 14
+	R: Nature's Grasp @ 120 / 110 / 100
+
+Master Yi:
+	Passive: Double Strike @ None
+	Q: Alpha Strike @ 20 / 19.5 / 19 / 18.5 / 18
+	W: Meditate @ 9
+	E: Wuju Style @ 18
+	R: Highlander @ 85
+
+Milio:
+	Passive: Fired Up! @ None
+	Q: Ultra Mega Fire Kick @ 12
+	W: Cozy Campfire @ 29 / 27 / 25 / 23 / 21
+	E: Warm Hugs @ 0.5
+	R: Breath of Life @ 160 / 145 / 130
+
+Miss Fortune:
+	Passive: Love Tap @ None
+	Q: Double Up @ 7 / 6 / 5 / 4 / 3
+	W: Strut @ 12
+	E: Make It Rain @ 18 / 17 / 16 / 15 / 14
+	R: Bullet Time @ 120 / 110 / 100
+
+Mordekaiser:
+	Passive: Darkness Rise @ None
+	Q: Obliterate @ 9 / 7.75 / 6.5 / 5.25 / 4
+	W: Indestructible @ 12 / 11 / 10 / 9 / 8
+	E: Death's Grasp @ 18 / 16 / 14 / 12 / 10
+	R: Realm of Death @ 140 / 120 / 100
+
+Morgana:
+	Passive: Soul Siphon @ None
+	Q: Dark Binding @ 10
+	W: Tormented Shadow @ 12
+	E: Black Shield @ 24 / 22 / 20 / 18 / 16
+	R: Soul Shackles @ 120 / 110 / 100
+
+Naafiri:
+	Passive: We Are More @ 25 / 20 / 15 / 10 (based on level)
+	Q: Darkin Daggers @ 11 / 10 / 9 / 8 / 7
+	W: Hounds' Pursuit @ 22 / 20 / 18 / 16 / 14
+	E: Eviscerate @ 11 / 10.5 / 10 / 9.5 / 9
+	R: The Call of the Pack @ 120 / 110 / 100
+
+Nami:
+	Passive: Surging Tides @ None
+	Q: Aqua Prison @ 12 / 11 / 10 / 9 / 8
+	W: Ebb and Flow @ 10
+	E: Tidecaller's Blessing @ 11
+	R: Tidal Wave @ 120 / 110 / 100
+
+Nasus:
+	Passive: Soul Eater @ None
+	Q: Siphoning Strike @ 7.5 / 6.5 / 5.5 / 4.5 / 3.5
+	W: Wither @ 15 / 14 / 13 / 12 / 11
+	E: Spirit Fire @ 12
+	R: Fury of the Sands @ 120 / 100 / 80
+
+Nautilus:
+	Passive: Staggering Blow @ None
+	Q: Dredge Line @ 14 / 13 / 12 / 11 / 10
+	W: Titan's Wrath @ 12
+	E: Riptide @ 7 / 6.5 / 6 / 5.5 / 5
+	R: Depth Charge @ 120 / 100 / 80
+
+Neeko:
+	Passive: Inherent Glamour @ 6
+	Q: Blooming Burst @ 9 / 8.5 / 8 / 7.5 / 7
+	W: Shapesplitter @ 16 / 15 / 14 / 13 / 12
+	E: Tangle-Barbs @ 12 / 11.5 / 11 / 10.5 / 10
+	R: Pop Blossom @ 120 / 105 / 90
+
+Nidalee:
+	Passive: Prowl @ None
+	Q: Javelin Toss @ 6
+	Q: Takedown @ 6
+	W: Bushwhack @ 13 / 12 / 11 / 10 / 9
+	W: Pounce @ 6
+	E: Primal Surge @ 12
+	E: Swipe @ 6
+	R: Aspect of the Cougar @ 3
+
+Nilah:
+	Passive: Joy Unending @ None
+	Q: Formless Blade @ 4
+	W: Jubilant Veil @ 26 / 25 / 24 / 23 / 22
+	E: Slipstream @ 0.5
+	R: Apotheosis @ 110 / 95 / 80
+
+Nocturne:
+	Passive: Umbra Blades @ 13
+	Q: Duskbringer @ 8
+	W: Shroud of Darkness @ 20 / 18 / 16 / 14 / 12
+	E: Unspeakable Horror @ 15 / 14 / 13 / 12 / 11
+	R: Paranoia @ 140 / 115 / 90
+
+Nunu & Willump:
+	Passive: Call of the Freljord @ None
+	Q: Consume @ 12 / 11 / 10 / 9 / 8
+	W: Biggest Snowball Ever! @ 14
+	E: Snowball Barrage @ 14 / 13 / 12 / 11 / 10
+	R: Absolute Zero @ 110 / 100 / 90
+
+Olaf:
+	Passive: Berserker Rage @ None
+	Q: Undertow @ 9
+	W: Tough It Out @ 16 / 15 / 14 / 13 / 12
+	E: Reckless Swing @ 11 / 10 / 9 / 8 / 7
+	R: Ragnarok @ 100 / 90 / 80
+
+Orianna:
+	Passive: Clockwork Windup @ None
+	Q: Command: Attack @ 6 / 5.25 / 4.5 / 3.75 / 3
+	W: Command: Dissonance @ 7
+	E: Command: Protect @ 9
+	R: Command: Shockwave @ 110 / 95 / 80
+
+Ornn:
+	Passive: Living Forge @ None
+	Q: Volcanic Rupture @ 9 / 8.5 / 8 / 7.5 / 7
+	W: Bellows Breath @ 12 / 11.5 / 11 / 10.5 / 10
+	E: Searing Charge @ 16 / 15 / 14 / 13 / 12
+	R: Call of the Forge God @ 140 / 120 / 100
+
+Pantheon:
+	Passive: Mortal Will @ None
+	Q: Comet Spear @ 11 / 10.25 / 9.5 / 8.75 / 8
+	W: Shield Vault @ 13 / 12 / 11 / 10 / 9
+	E: Aegis Assault @ 22 / 21 / 20 / 19 / 18
+	R: Grand Starfall @ 180 / 165 / 150
+
+Poppy:
+	Passive: Iron Ambassador @ 13 / 10 / 7 (based on level)
+	Q: Hammer Shock @ 8 / 7 / 6 / 5 / 4
+	W: Steadfast Presence @ 20 / 18 / 16 / 14 / 12
+	E: Heroic Charge @ 14 / 13 / 12 / 11 / 10
+	R: Keeper's Verdict @ 140 / 120 / 100
+
+Pyke:
+	Passive: Gift of the Drowned Ones @ None
+	Q: Bone Skewer @ 10 / 9.5 / 9 / 8.5 / 8
+	W: Ghostwater Dive @ 12 / 11.5 / 11 / 10.5 / 10
+	E: Phantom Undertow @ 15 / 14 / 13 / 12 / 11
+	R: Death from Below @ 100 / 85 / 70
+
+Qiyana:
+	Passive: Royal Privilege @ None
+	Q: Edge of Ixtal @ 7
+	W: Terrashape @ 7
+	E: Audacity @ 11 / 10 / 9 / 8 / 7
+	R: Supreme Display of Talent @ 120
+
+Quinn:
+	Passive: Harrier @ None
+	Q: Blinding Assault @ 11 / 10.5 / 10 / 9.5 / 9
+	W: Heightened Senses @ 50 / 45 / 40 / 35 / 30
+	E: Vault @ 12 / 11 / 10 / 9 / 8
+	R: Behind Enemy Lines @ 3
+
+Rakan:
+	Passive: Fey Feathers @ 40 − 14.5 (based on level)
+	Q: Gleaming Quill @ 11 / 10 / 9 / 8 / 7
+	W: Grand Entrance @ 16 / 14.5 / 13 / 11.5 / 10
+	E: Battle Dance @ 20 / 18 / 16 / 14 / 12
+	R: The Quickness @ 130 / 110 / 90
+
+Rammus:
+	Passive: Spiked Shell @ None
+	Q: Powerball @ 16 / 13.5 / 11 / 8.5 / 6
+	W: Defensive Ball Curl @ 7
+	E: Frenzying Taunt @ 12
+	R: Soaring Slam @ 90
+
+Rek'Sai:
+	Passive: Fury of the Xer'Sai @ None
+	Q: Queen's Wrath @ 4 / 3.5 / 3 / 2.5 / 2
+	Q: Prey Seeker @ 12 / 11.5 / 11 / 10.5 / 10
+	W: Burrow @ 4
+	W: Unburrow @ 1
+	E: Furious Bite @ 12
+	E: Tunnel @ 26 / 24 / 22 / 20 / 18
+	R: Void Rush @ 100 / 90 / 80
+
+Rell:
+	Passive: Break the Mold @ None
+	Q: Shattering Strike @ 11 / 10.5 / 10 / 9.5 / 9
+	W: Ferromancy: Crash Down @ 11
+	E: Full Tilt @ 15
+	R: Magnet Storm @ 120 / 100 / 80
+
+Renata Glasc:
+	Passive: Leverage @ None
+	Q: Handshake @ 16
+	W: Bailout @ 28 / 27 / 26 / 25 / 24
+	E: Loyalty Program @ 14 / 13 / 12 / 11 / 10
+	R: Hostile Takeover @ 150 / 130 / 110
+
+Renekton:
+	Passive: Reign of Anger @ None
+	Q: Cull the Meek @ 7
+	W: Ruthless Predator @ 16 / 14 / 12 / 10 / 8
+	E: Slice @ 16 / 15 / 14 / 13 / 12
+	R: Dominus @ 120 / 100 / 80
+
+Rengar:
+	Passive: Unseen Predator @ None
+	Q: Savagery @ 6 / 5.5 / 5 / 4.5 / 4
+	W: Battle Roar @ 16 / 14.5 / 13 / 11.5 / 10
+	E: Bola Strike @ 10
+	R: Thrill of the Hunt @ 110 / 100 / 90
+
+Riven:
+	Passive: Runic Blade @ None
+	Q: Broken Wings @ 13
+	W: Ki Burst @ 11 / 10 / 9 / 8 / 7
+	E: Valor @ 10 / 9 / 8 / 7 / 6
+	R: Blade of the Exile @ 120 / 90 / 60
+
+Rumble:
+	Passive: Junkyard Titan @ None
+	Q: Flamespitter @ 10 / 9 / 8 / 7 / 6
+	W: Scrap Shield @ 6
+	E: Electro Harpoon @ 0.5
+	R: The Equalizer @ 130 / 105 / 80
+
+Ryze:
+	Passive: Arcane Mastery @ None
+	Q: Overload @ 5
+	W: Rune Prison @ 13 / 12 / 11 / 10 / 9
+	E: Spell Flux @ 3.5 / 3.25 / 3 / 2.75 / 2.5
+	R: Realm Warp @ 210 / 180 / 150
+
+Samira:
+	Passive: Daredevil Impulse @ None
+	Q: Flair @ 6 / 5 / 4 / 3 / 2
+	W: Blade Whirl @ 30 / 28 / 26 / 24 / 22
+	E: Wild Rush @ 20 / 18 / 16 / 14 / 12
+	R: Inferno Trigger @ 5
+
+Sejuani:
+	Passive: Fury of the North @ None
+	Q: Arctic Assault @ 19 / 17.5 / 16 / 14.5 / 13
+	W: Winter's Wrath @ 9 / 8 / 7 / 6 / 5
+	E: Permafrost @ 1.5
+	R: Glacial Prison @ 130 / 110 / 90
+
+Senna:
+	Passive: Absolution @ None
+	Q: Piercing Darkness @ 15
+	W: Last Embrace @ 11
+	E: Curse of the Black Mist @ 26 / 24.5 / 23 / 21.5 / 20
+	R: Dawning Shadow @ 140 / 120 / 100
+	Other: Basic Attack @ None
+
+Seraphine:
+	Passive: Stage Presence @ None
+	Q: High Note @ 10 / 8.75 / 7.5 / 6.25 / 5
+	W: Surround Sound @ 28 / 26 / 24 / 22 / 20
+	E: Beat Drop @ 10
+	R: Encore @ 160 / 130 / 100
+
+Sett:
+	Passive: Pit Grit @ None
+	Q: Knuckle Down @ 9 / 8 / 7 / 6 / 5
+	W: Haymaker @ 18 / 16.5 / 15 / 13.5 / 12
+	E: Facebreaker @ 16 / 14.5 / 13 / 11.5 / 10
+	R: The Show Stopper @ 120 / 100 / 80
+
+Shaco:
+	Passive: Backstab @ None
+	Q: Deceive @ 12 / 11.5 / 11 / 10.5 / 10
+	W: Jack in the Box @ 15
+	E: Two-Shiv Poison @ 8
+	R: Hallucinate @ 100 / 90 / 80
+
+Shen:
+	Passive: Ki Barrier @ 10
+	Q: Twilight Assault @ 8 / 7.25 / 6.5 / 5.75 / 5
+	W: Spirit's Refuge @ 18 / 16.5 / 15 / 13.5 / 12
+	E: Shadow Dash @ 18 / 16 / 14 / 12 / 10
+	R: Stand United @ 200 / 180 / 160
+
+Shyvana:
+	Passive: Fury of the Dragonborn @ None
+	Q: Twin Bite @ 8 / 7.5 / 7 / 6.5 / 6
+	W: Burnout @ 12
+	E: Flame Breath @ 12 / 11 / 10 / 9 / 8
+	R: Dragon's Descent @ None
+
+Singed:
+	Passive: Noxious Slipstream @ None
+	Q: Poison Trail @ 1
+	W: Mega Adhesive @ 17 / 16 / 15 / 14 / 13
+	E: Fling @ 10 / 9.5 / 9 / 8.5 / 8
+	R: Insanity Potion @ 120 / 110 / 100
+
+Sion:
+	Passive: Glory in Death @ 100
+	Q: Decimating Smash @ 10 / 9 / 8 / 7 / 6
+	W: Soul Furnace @ 15 / 14 / 13 / 12 / 11
+	E: Roar of the Slayer @ 12 / 11 / 10 / 9 / 8
+	R: Unstoppable Onslaught @ 140 / 100 / 60
+
+Sivir:
+	Passive: Fleet of Foot @ None
+	Q: Boomerang Blade @ 10 / 9.5 / 9 / 8.5 / 8
+	W: Ricochet @ 12
+	E: Spell Shield @ 24 / 22.5 / 21 / 19.5 / 18
+	R: On the Hunt @ 120 / 100 / 80
+
+Skarner:
+	Passive: Crystal Spires @ None
+	Q: Crystal Slash @ 3.5 / 3.25 / 3 / 2.75 / 2.5
+	W: Crystalline Exoskeleton @ 13 / 12.5 / 12 / 11.5 / 11
+	E: Fracture @ 14 / 13.5 / 13 / 12.5 / 12
+	R: Impale @ 120 / 100 / 80
+
+Sona:
+	Passive: Power Chord @ None
+	Q: Hymn of Valor @ 8
+	W: Aria of Perseverance @ 10
+	E: Song of Celerity @ 14
+	R: Crescendo @ 140 / 120 / 100
+
+Soraka:
+	Passive: Salvation @ None
+	Q: Starcall @ 8 / 7 / 6 / 5 / 4
+	W: Astral Infusion @ 6 / 5 / 4 / 3 / 2
+	E: Equinox @ 20 / 19 / 18 / 17 / 16
+	R: Wish @ 160 / 145 / 130
+
+Swain:
+	Passive: Ravenous Flock @ None
+	Q: Death's Hand @ 7 / 6 / 5 / 4 / 3
+	W: Vision of Empire @ 22 / 21 / 20 / 19 / 18
+	E: Nevermove @ 10
+	R: Demonic Ascension @ 100 / 80 / 60
+
+Sylas:
+	Passive: Petricite Burst @ None
+	Q: Chain Lash @ 11 / 10 / 9 / 8 / 7
+	W: Kingslayer @ 12 / 10.5 / 9 / 7.5 / 6
+	E: Abscond @ 13 / 12 / 11 / 10 / 9
+	R: Hijack @ 80 / 55 / 30
+
+Syndra:
+	Passive: Transcendent @ None
+	Q: Dark Sphere @ 7
+	W: Force of Will @ 12 / 11 / 10 / 9 / 8
+	E: Scatter the Weak @ 17
+	R: Unleashed Power @ 120 / 100 / 80
+
+Tahm Kench:
+	Passive: An Acquired Taste @ None
+	Q: Tongue Lash @ 7 / 6.5 / 6 / 5.5 / 5
+	W: Abyssal Dive @ 21 / 20 / 19 / 18 / 17
+	E: Thick Skin @ 3
+	R: Devour @ 120 / 100 / 80
+
+Taliyah:
+	Passive: Rock Surfing @ 2
+	Q: Threaded Volley @ 7 / 6 / 5 / 4 / 3
+	W: Seismic Shove @ 14 / 12.5 / 11 / 9.5 / 8
+	E: Unraveled Earth @ 18 / 17 / 16 / 15 / 14
+	R: Weaver's Wall @ 180 / 150 / 120
+
+Talon:
+	Passive: Blade's End @ None
+	Q: Noxian Diplomacy @ 8 / 7.5 / 7 / 6.5 / 6
+	W: Rake @ 9 / 8.5 / 8 / 7.5 / 7
+	E: Assassin's Path @ 2
+	R: Shadow Assault @ 100 / 80 / 60
+
+Taric:
+	Passive: Bravado @ None
+	Q: Starlight's Touch @ 3
+	W: Bastion @ 15
+	E: Dazzle @ 16 / 15 / 14 / 13 / 12
+	R: Cosmic Radiance @ 180 / 150 / 120
+
+Teemo:
+	Passive: Guerrilla Warfare @ None
+	Q: Blinding Dart @ 7
+	W: Move Quick @ 14
+	E: Toxic Shot @ None
+	R: Noxious Trap @ 0.25
+
+Thresh:
+	Passive: Damnation @ None
+	Q: Death Sentence @ 19 / 16.5 / 14 / 11.5 / 9
+	W: Dark Passage @ 21 / 20 / 19 / 18 / 17
+	E: Flay @ 13 / 12.25 / 11.5 / 10.75 / 10
+	R: The Box @ 140 / 120 / 100
+
+Tristana:
+	Passive: Draw a Bead @ None
+	Q: Rapid Fire @ 20 / 19 / 18 / 17 / 16
+	W: Rocket Jump @ 22 / 20 / 18 / 16 / 14
+	E: Explosive Charge @ 16 / 15.5 / 15 / 14.5 / 14
+	R: Buster Shot @ 120 / 110 / 100
+
+Trundle:
+	Passive: King's Tribute @ None
+	Q: Chomp @ 3.5
+	W: Frozen Domain @ 16 / 15 / 14 / 13 / 12
+	E: Pillar of Ice @ 24 / 22 / 20 / 18 / 16
+	R: Subjugate @ 120 / 100 / 80
+
+Tryndamere:
+	Passive: Battle Fury @ None
+	Q: Bloodlust @ 12
+	W: Mocking Shout @ 14
+	E: Spinning Slash @ 12 / 11 / 10 / 9 / 8
+	R: Undying Rage @ 120 / 100 / 80
+
+Twisted Fate:
+	Passive: Loaded Dice @ None
+	Q: Wild Cards @ 6 / 5.75 / 5.5 / 5.25 / 5
+	W: Pick a Card @ 6
+	E: Stacked Deck @ None
+	R: Destiny @ 180 / 150 / 120
+
+Twitch:
+	Passive: Deadly Venom @ None
+	Q: Ambush @ 16
+	W: Venom Cask @ 13 / 12 / 11 / 10 / 9
+	E: Contaminate @ 12 / 11 / 10 / 9 / 8
+	R: Spray and Pray @ 90
+
+Udyr:
+	Passive: Bridge Between @ 50 / 40 / 30 / 20 (based on level)
+	Q: Wilding Claw @ 6
+	W: Iron Mantle @ 6
+	E: Blazing Stampede @ 6
+	R: Wingborne Storm @ 6
+
+Urgot:
+	Passive: Echoing Flames @ None
+	Q: Corrosive Charge @ 10 / 9.5 / 9 / 8.5 / 8
+	W: Purge @ 12 / 9 / 6 / 3 / 0
+	E: Disdain @ 16 / 15.5 / 15 / 14.5 / 14
+	R: Fear Beyond Death @ 100 / 85 / 70
+
+Varus:
+	Passive: Living Vengeance @ None
+	Q: Piercing Arrow @ 16 / 15 / 14 / 13 / 12
+	W: Blighted Quiver @ 40
+	E: Hail of Arrows @ 18 / 16 / 14 / 12 / 10
+	R: Chain of Corruption @ 100 / 80 / 60
+
+Vayne:
+	Passive: Night Hunter @ None
+	Q: Tumble @ 4 / 3.5 / 3 / 2.5 / 2
+	W: Silver Bolts @ None
+	E: Condemn @ 20 / 18 / 16 / 14 / 12
+	R: Final Hour @ 100 / 85 / 70
+
+Veigar:
+	Passive: Phenomenal Evil Power @ None
+	Q: Baleful Strike @ 6 / 5.5 / 5 / 4.5 / 4
+	W: Dark Matter @ 8 − 0 (based on  Phenomenal Evil stacks)
+	E: Event Horizon @ 20 / 18.5 / 17 / 15.5 / 14
+	R: Primordial Burst @ 120 / 90 / 60
+
+Vel'Koz:
+	Passive: Organic Deconstruction @ None
+	Q: Plasma Fission @ 7
+	W: Void Rift @ 1.5
+	E: Tectonic Disruption @ 16 / 15 / 14 / 13 / 12
+	R: Life Form Disintegration Ray @ 120 / 100 / 80
+
+Vex:
+	Passive: Doom 'n Gloom @ 25 / 22 / 19 / 16 (based on level)
+	Q: Mistral Bolt @ 8 / 7 / 6 / 5 / 4
+	W: Personal Space @ 20 / 18 / 16 / 14 / 12
+	E: Looming Darkness @ 13
+	R: Shadow Surge @ 140 / 120 / 100
+
+Vi:
+	Passive: Blast Shield @ 16 − 12 (based on level)
+	Q: Vault Breaker @ 12 / 10.5 / 9 / 7.5 / 6
+	W: Denting Blows @ None
+	E: Relentless Force @ 1
+	R: Cease and Desist @ 140 / 115 / 90
+
+Viego:
+	Passive: Sovereign's Domination @ None
+	Q: Blade of the Ruined King @ 5 / 4.5 / 4 / 3.5 / 3
+	W: Spectral Maw @ 8
+	E: Harrowed Path @ 14 / 12 / 10 / 8 / 6
+	R: Heartbreaker @ 120 / 100 / 80
+
+Viktor:
+	Passive: Glorious Evolution @ None
+	Q: Siphon Power @ 9 / 8 / 7 / 6 / 5
+	W: Gravity Field @ 17 / 16 / 15 / 14 / 13
+	E: Death Ray @ 12 / 11 / 10 / 9 / 8
+	R: Chaos Storm @ 120 / 100 / 80
+
+Vladimir:
+	Passive: Crimson Pact @ None
+	Q: Transfusion @ 9 / 7.9 / 6.8 / 5.7 / 4.6
+	W: Sanguine Pool @ 28 / 25 / 22 / 19 / 16
+	E: Tides of Blood @ 13 / 11 / 9 / 7 / 5
+	R: Hemoplague @ 120
+
+Volibear:
+	Passive: The Relentless Storm @ None
+	Q: Thundering Smash @ 14 / 13 / 12 / 11 / 10
+	W: Frenzied Maul @ 5
+	E: Sky Splitter @ 13
+	R: Stormbringer @ 160 / 140 / 120
+
+Warwick:
+	Passive: Eternal Hunger @ None
+	Q: Jaws of the Beast @ 6
+	W: Blood Hunt @ 120 / 105 / 90 / 75 / 60
+	E: Primal Howl @ 15 / 14 / 13 / 12 / 11
+	R: Infinite Duress @ 110 / 90 / 70
+
+Wukong:
+	Passive: Stone Skin @ None
+	Q: Crushing Blow @ 8 / 7.5 / 7 / 6.5 / 6
+	W: Warrior Trickster @ 22 / 20 / 18 / 16 / 14
+	E: Nimbus Strike @ 10 / 9.5 / 9 / 8.5 / 8
+	R: Cyclone @ 130 / 110 / 90
+
+Xayah:
+	Passive: Clean Cuts @ None
+	Q: Double Daggers @ 10 / 9.5 / 9 / 8.5 / 8
+	W: Deadly Plumage @ 20 / 19 / 18 / 17 / 16
+	E: Bladecaller @ 11 / 10.5 / 10 / 9.5 / 9
+	R: Featherstorm @ 140 / 120 / 100
+
+Xerath:
+	Passive: Mana Surge @ 16
+	Q: Arcanopulse @ 9 / 8 / 7 / 6 / 5
+	W: Eye of Destruction @ 14 / 13 / 12 / 11 / 10
+	E: Shocking Orb @ 13 / 12.5 / 12 / 11.5 / 11
+	R: Rite of the Arcane @ 130 / 115 / 100
+
+Xin Zhao:
+	Passive: Determination @ None
+	Q: Three Talon Strike @ 7 / 6.5 / 6 / 5.5 / 5
+	W: Wind Becomes Lightning @ 12 / 11 / 10 / 9 / 8
+	E: Audacious Charge @ 11
+	R: Crescent Guard @ 120 / 110 / 100
+
+Yasuo:
+	Passive: Way of the Wanderer @ None
+	Q: Steel Tempest @ 4 − 1.33 (based on bonus attack speed)
+	W: Wind Wall @ 25 / 23 / 21 / 19 / 17
+	E: Sweeping Blade @ 0.5 / 0.4 / 0.3 / 0.2 / 0.1
+	R: Last Breath @ 70 / 50 / 30
+
+Yone:
+	Passive: Way of the Hunter @ None
+	Q: Mortal Steel @ 4 − 1.33 (based on bonus attack speed)
+	W: Spirit Cleave @ 14 − 6 (based on bonus attack speed)
+	E: Soul Unbound @ 22 / 19 / 16 / 13 / 10
+	R: Fate Sealed @ 120 / 90 / 60
+
+Yorick:
+	Passive: Shepherd of Souls @ None
+	Q: Last Rites @ 7 / 6.25 / 5.5 / 4.75 / 4
+	W: Dark Procession @ 20 / 18 / 16 / 14 / 12
+	E: Mourning Mist @ 12 / 11 / 10 / 9 / 8
+	R: Eulogy of the Isles @ 160 / 130 / 100
+
+Yuumi:
+	Passive: Feline Friendship @ 20 − 10 (based on level)
+	Q: Prowling Projectile @ 6.5
+	W: You and Me! @ 10 / 5 / 0 (based on level)
+	E: Zoomies @ 12 / 11.5 / 11 / 10.5 / 10
+	R: Final Chapter @ 120 / 110 / 100
+
+Zac:
+	Passive: Cell Division @ 300
+	Q: Stretching Strikes @ 14 / 12.5 / 11 / 9.5 / 8
+	W: Unstable Matter @ 5
+	E: Elastic Slingshot @ 24 / 21 / 18 / 15 / 12
+	R: Let's Bounce! @ 130 / 115 / 100
+
+Zed:
+	Passive: Contempt for the Weak @ None
+	Q: Razor Shuriken @ 6
+	W: Living Shadow @ 20 / 18.5 / 17 / 15.5 / 14
+	E: Shadow Slash @ 5 / 4.5 / 4 / 3.5 / 3
+	R: Death Mark @ 120 / 100 / 80
+
+Zeri:
+	Passive: Living Battery @ None
+	Q: Burst Fire @ 1 ÷ Zeri's attack speed
+	W: Ultrashock Laser @ 12 / 11 / 10 / 9 / 8
+	E: Spark Surge @ 22 / 21 / 20 / 19 / 18
+	R: Lightning Crash @ 100 / 85 / 70
+
+Ziggs:
+	Passive: Short Fuse @ 12
+	Q: Bouncing Bomb @ 6 / 5.5 / 5 / 4.5 / 4
+	W: Satchel Charge @ 20 / 18 / 16 / 14 / 12
+	E: Hexplosive Minefield @ 16
+	R: Mega Inferno Bomb @ 120 / 95 / 70
+
+Zilean:
+	Passive: Time in a Bottle @ 120
+	Q: Time Bomb @ 10 / 9.5 / 9 / 8.5 / 8
+	W: Rewind @ 14 / 12 / 10 / 8 / 6
+	E: Time Warp @ 15
+	R: Chronoshift @ 120 / 90 / 60
+
+Zoe:
+	Passive: More Sparkles! @ None
+	Q: Paddle Star @ 8.5 / 8 / 7.5 / 7 / 6.5
+	W: Spell Thief @ 0.25
+	E: Sleepy Trouble Bubble @ 16 / 15 / 14 / 13 / 12
+	R: Portal Jump @ 11 / 8 / 5
+
+Zyra:
+	Passive: Garden of Thorns @ 13 / 12 / 11 / 10 / 9 (based on level)
+	Q: Deadly Spines @ 7 / 6.5 / 6 / 5.5 / 5
+	W: Rampant Growth @ 18 / 16 / 14 / 12 / 10
+	E: Grasping Roots @ 12
+	R: Stranglethorns @ 110 / 100 / 90
+

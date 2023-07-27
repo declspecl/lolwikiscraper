@@ -1,4 +1,5 @@
 from enum import Enum
+from json import JSONEncoder, JSONDecoder
 
 class AbilitySlot(Enum):
     PASSIVE = 0
@@ -27,7 +28,7 @@ class AbilitySlot(Enum):
             return AbilitySlot.OTHER
 
 class Ability:
-    def __init__(self, name: str, slot: AbilitySlot, cooldowns: list[int] | str | None):
+    def __init__(self, name: str, slot: AbilitySlot, cooldowns: list[int | float] | str | None):
         self.name = name
         self.slot = slot
         self.cooldowns = cooldowns
@@ -37,3 +38,30 @@ class Ability:
 
     def __repr__(self) -> str:
         return "{}: {} @ {}".format(str(self.slot), self.name, self.cooldowns)
+
+class AbilityEncoder(JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, Ability):
+            return {
+                "name": obj.name,
+                "slot": obj.slot.name,
+                "cooldowns": obj.cooldowns
+            }
+        
+        return super().default(obj)
+    
+class AbilityDecoder(JSONDecoder):
+    def __init__(self, *args, **kwargs):
+            kwargs["object_hook"] = self.object_hook
+            super().__init__(**kwargs)
+
+    def object_hook(self, dct) -> Ability | dict:
+        if "slot" in dct:
+            return Ability(
+                dct["name"],
+                AbilitySlot.__members__[dct["slot"]],
+                dct["cooldowns"]
+            )
+        
+        else:
+            return dct
