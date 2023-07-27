@@ -9,7 +9,7 @@ def main():
 
     utils.export_to_json(all_champs, "champs.json")
     utils.export_with_format(all_champs, "champs.txt", "{N}:\n[\t(S): (N) @ (C)\n]\n")
-    utils.export_with_format(all_champs, "champs.md", "# {n}\n## cds\n[- (s): (c)\n]\n")
+    utils.export_with_format(all_champs, "champs.md", "# {n}\n## cds\n[- (S): (c)\n]\n")
 
 if __name__ == "__main__":
     main()
