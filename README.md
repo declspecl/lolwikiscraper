@@ -14,7 +14,7 @@ on a cloned version of the repo. I am using Python 3.11.2 with pip 23.2.1
 - The [champion](./champion.py) module contains a Champion class that has a name and a list of Ability objects
 - The [scrape](./scrape.py) module contains several very useful functions that will scrape the LoL wiki to get a single champion or every champion, depending on what you want.
 - The [demo](./demo.py) file has some examples showing how to use the program, primarily the scraper.
-- The [utils](./utils.py) file has various useful functions that allow for exporting and important JSON data as well as
+- The [utils](./utils.py) module has various useful functions that allow for exporting and important JSON data as well as
 
 # Examples
 I used a custom format using the [utils](./utils.py) module's `export_with_format` method to print some very nice looking pieces of data. Have a look:
