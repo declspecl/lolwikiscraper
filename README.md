@@ -22,31 +22,31 @@ I used a custom format using the [utils](./utils.py) module's `export_with_forma
 ## Markdown
 ### aatrox
 #### cds
-- Passive: 24 − 12 (based on level)
-- Q: 14 / 12 / 10 / 8 / 6
-- W: 20 / 18 / 16 / 14 / 12
-- E: 9 / 8 / 7 / 6 / 5
-- R: 120 / 100 / 80
+- passive: 24 − 12 (based on level)
+- q: 14 / 12 / 10 / 8 / 6
+- w: 20 / 18 / 16 / 14 / 12
+- e: 9 / 8 / 7 / 6 / 5
+- r: 120 / 100 / 80
 
 ### ahri
 #### cds
-- Passive: none
-- Q: 7
-- W: 9 / 8 / 7 / 6 / 5
-- E: 14
-- R: 130 / 105 / 80
+- passive: none
+- q: 7
+- w: 9 / 8 / 7 / 6 / 5
+- e: 14
+- r: 130 / 105 / 80
 
 ## Plaintext
 Rengar:
-	Passive: Unseen Predator @ None
-	Q: Savagery @ 6 / 5.5 / 5 / 4.5 / 4
-	W: Battle Roar @ 16 / 14.5 / 13 / 11.5 / 10
-	E: Bola Strike @ 10
-	R: Thrill of the Hunt @ 110 / 100 / 90
+- Passive: Unseen Predator @ None
+- Q: Savagery @ 6 / 5.5 / 5 / 4.5 / 4
+- W: Battle Roar @ 16 / 14.5 / 13 / 11.5 / 10
+- E: Bola Strike @ 10
+- R: Thrill of the Hunt @ 110 / 100 / 90
 
 Riven:
-	Passive: Runic Blade @ None
-	Q: Broken Wings @ 13
-	W: Ki Burst @ 11 / 10 / 9 / 8 / 7
-	E: Valor @ 10 / 9 / 8 / 7 / 6
-	R: Blade of the Exile @ 120 / 90 / 60
+- Passive: Runic Blade @ None
+- Q: Broken Wings @ 13
+- W: Ki Burst @ 11 / 10 / 9 / 8 / 7
+- E: Valor @ 10 / 9 / 8 / 7 / 6
+- R: Blade of the Exile @ 120 / 90 / 60
